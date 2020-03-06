@@ -41,13 +41,13 @@
 	}
    
    
-   p { 
-			line-height: 1.5em;
-			font-size: 14pt;
-			 text-align: center;
+
 	}
    
    A:link { COLOR: #DFBA69; TEXT-DECORATION: none; font-weight: normal }
 		A:visited { COLOR: white; TEXT-DECORATION: none; font-weight: normal }
 		A:active { COLOR: grey; TEXT-DECORATION: none }
 		A:hover { COLOR: blue; TEXT-DECORATION: none; font-weight: none }
+		
+	
+		
