@@ -1,6 +1,15 @@
-   li {
+  
+
+
+
+  body { 
+		font-size: 20px; 
+  }
+
+
+  li {
 			float: left;
-			width: 175px; <!--.how spread out the navigation tabs are. -->
+			width: 150px; 
 			 text-align: center;
 			
 		}
@@ -13,7 +22,7 @@
 			padding: 16px 16px;
 			text-decoration: none;
 			text-align: center; 
-				width: 100%;
+	
 	}
 	
 	 li a:hover:not(.current) {
@@ -28,11 +37,13 @@
 			padding: 0px;
 			overflow: hidden;
 			position: fixed;
-			width: 100%;
+			width: 750px;
 			top: 0;
-			float: left;
-			text-align: center;
+			
+			
+			
 		}
+		
 		
 		   .content {
 		width: 710px;
