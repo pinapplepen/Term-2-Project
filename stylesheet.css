@@ -1,0 +1,53 @@
+   li {
+			float: left;
+			width: 175px; <!--.how spread out the navigation tabs are. -->
+			 text-align: center;
+			
+		}
+	
+	
+	
+   li a {
+			
+			display: block;
+			padding: 16px 16px;
+			text-decoration: none;
+			text-align: center; 
+				width: 100%;
+	}
+	
+	 li a:hover:not(.current) {
+			background-color: #555555;
+			 text-align: center;
+		}
+		
+		   ul {
+			background-color: #333333;
+			list-style-type: none;
+			margin: 0px;
+			padding: 0px;
+			overflow: hidden;
+			position: fixed;
+			width: 100%;
+			top: 0;
+			float: left;
+			text-align: center;
+		}
+		
+		   .content {
+		width: 710px;
+		padding: 20px;
+		text-align: center;
+	}
+   
+   
+   p { 
+			line-height: 1.5em;
+			font-size: 14pt;
+			 text-align: center;
+	}
+   
+   A:link { COLOR: #DFBA69; TEXT-DECORATION: none; font-weight: normal }
+		A:visited { COLOR: white; TEXT-DECORATION: none; font-weight: normal }
+		A:active { COLOR: grey; TEXT-DECORATION: none }
+		A:hover { COLOR: blue; TEXT-DECORATION: none; font-weight: none }
